@@ -20,7 +20,7 @@ Current focus areas:
 - Data pipeline design
 - API-based automation
 - Financial and operational modeling
-- Lightweight product infrastructure
+- Lightweight analytics infrastructure
 - Decision-support tooling
 
 ## Tech Stack
@@ -54,17 +54,17 @@ Current focus areas:
 
 ## Selected Work
 
-Selected work includes private systems for:
+Selected work includes project work across:
 
 - Pricing analytics
-- API-based data collection
+- API-based data workflows
 - Workflow automation
 - Financial model support
 - Data transformation and reconciliation
 - Decision-support tooling
 
-Most production-facing work is private by design.
+Some implementation details are kept private by design.
 
 ## Disclaimer
 
-Personal projects only. No proprietary, client, or confidential data is included.
+Personal projects only. No proprietary, client, employer, or confidential data is included.
